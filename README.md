@@ -3,7 +3,7 @@
 ## Run app
 
 ```
-$ git clone 
+$ git clone https://github.com/Aleksandrov1ch/lab1.1nodejs.git
 ```
 
 ```
