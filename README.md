@@ -3,11 +3,11 @@
 ## Run app
 
 ```
-$ git clone https://github.com/KalinkinFiz/nodejs-2021Q2-task1.git
+$ git clone 
 ```
 
 ```
-$ cd nodejs-2021Q2-task1
+$ cd lab1.1nodejs
 ```
 
 ```
